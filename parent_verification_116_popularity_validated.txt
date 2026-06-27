@@ -1,0 +1,7 @@
+父代理驗證
+- 既有：66
+- 新增保留：50
+- 整合總數：116
+- 本輪排除：3
+- category=貓砂：0
+- 所有保留 popularity_keep_or_drop=keep：True
